@@ -11,3 +11,6 @@ Various userscripts for DGG. I only use Tampermonkey so there may be issues with
  - [Link Shortener](https://raw.githubusercontent.com/Fritz-02/dgg-scripts/main/linkShortener.js): tired of nnn's extremely long NSFW links? This will shorten all links longer than a certain length (by default 150 characters), and optionally you can have it just shorten NSFW links if you enjoy super long SFW links.
  - [No White Links](https://github.com/Fritz-02/dgg-scripts/blob/main/noWhiteLinks.js): afraid of clicking a random white name's link and accidently seeing something that will make the FBI come visit you? This will redact those links.
  - [Mentions/Stalk Fixed](https://raw.githubusercontent.com/Fritz-02/dgg-scripts/main/mentionsStalkFixed.js): while OverRustle is down, this brings back the /mentions and /stalk commands using Rustlesearch.dev
+
+## [DGG Charts](https://github.com/Fritz-02/dgg-charts)
+Kind of random project that came to mind one day, it saves viewer count and messages per minute while Destiny's stream is live and charts it and various stats. I haven't gotten around to setting it up to run 24/7, so it's been shelved for the time being.
